@@ -1,0 +1,2 @@
+# skripsi
+Belajar membuat skripsi
