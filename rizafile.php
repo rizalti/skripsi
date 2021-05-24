@@ -2,5 +2,6 @@
 
 hello word....;
 
+ini salah sangka;
 
 ?>
